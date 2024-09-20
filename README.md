@@ -1,1 +1,1 @@
-django test
+website for learning django
